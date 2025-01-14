@@ -1,0 +1,4 @@
+Leveransdatum,Fakturadatum,Fakturanr,Typ,Kundnr,Företagstyp,Namn,Adress,Besöksadress,Postnr,Ort,Land,Orgno,Telefon,Fax,E-post,Avvikande namn,Leveransadress,Leveransadress 2,Leverans postnr,Leverans ort,Avvikande besöksadress,Artikelnr,Benämning,Antal,Enhet,Á-pris,Rabatt,Rabattyp,Moms,Pris inkl vat,Total,Inpris
+12/29/2022,1/2/2023,13176,F,1047,,Kund 1,Sveavägen 1,,13649,Stockholm,Sverige,55672,,,,Kund 1,Sveavägen 1,,13649,Stockholm,,1018,"Lemon Cake Ball, 16x25g",2,,100,0,%,12,112,224,90
+1/4/2023,1/5/2023,13274,F,156541,,Kund 2,Sveavägen 44,,11134,Stockholm,Sverige,557321,,,,Kund 2,Centralplan 1,,11120,Stockholm,,1017,Cinnamon ball,2,,100,0,%,12,112,224,90
+1/30/2023,1/30/2023,13632,F,1008,,Kund 3,FF 521,,83873,FRÖSÖN,Sverige,52142143,,,,Kund 3,Kungsgatan 1,,12040,Upplands väsby,,1008,Rasperrby Bar,4,,120,0,%,12,"134,4","537,6","110,98"
